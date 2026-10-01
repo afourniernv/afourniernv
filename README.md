@@ -2,7 +2,7 @@
 
 **AI Engineer · NVIDIA Engineering**
 
-<img src="./assets/nvidia-logo.svg" alt="NVIDIA" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" alt="NVIDIA" width="120">
 
 I build open-source infrastructure for AI agents, with a focus on observability, secure execution, model routing, evaluation, identity, and GPU-accelerated retrieval.
 
