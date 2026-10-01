@@ -2,6 +2,8 @@
 
 **AI Engineer · NVIDIA Engineering**
 
+<img src="./assets/nvidia-logo.svg" alt="NVIDIA" width="120">
+
 I build open-source infrastructure for AI agents, with a focus on observability, secure execution, model routing, evaluation, identity, and GPU-accelerated retrieval.
 
 My recent work includes building and upstreaming the [core NeMo Relay integration for Hermes Agent](https://github.com/NousResearch/hermes-agent/pull/67607), along with broader contributions to Relay's plugin, safety, and observability systems. During summer 2026, I was one of Hermes Agent's most active contributors.
